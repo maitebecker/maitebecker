@@ -3,6 +3,7 @@
 
 - :blue_book: Faço faculdade de Ciência da Computação
 - :house: Brasil - RS
+- :e-mail: beckermaite21@gmail.com
 
 ## Estou Aprendendo: 
 <div style="display: inline_block"><br>
