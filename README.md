@@ -1,11 +1,11 @@
-# Olá, Me chamo Maitê Becker!
-## Bem vindo ao meu perfil GitHub 👋
+# Hey, I'm Maitê Becker!
+## Welcome to my GitHub 👋
 
-- :blue_book: Faço faculdade de Ciência da Computação
+- :blue_book: Computer Science student
 - :house: Brasil - RS
 - :e-mail: beckermaite21@gmail.com
 
-## Estou Aprendendo: 
+## I'm learning: 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,7 +16,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
 </div>
 
-## Contatos:
+## Contact me on Social Media:
 <div>
 <a href="https://instagram.com/maite__becker" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:beckermaite21@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
