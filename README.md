@@ -2,7 +2,7 @@
 ## Welcome to my GitHub 👋
 
 - :blue_book: Computer Science student
-- :house: Brasil - RS
+- :house: Brazil
 - :e-mail: beckermaite21@gmail.com
 
 ## I'm learning: 
