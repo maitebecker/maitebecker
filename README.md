@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 
 
 <div>
   <a href="https://github.com/maitebecker">
