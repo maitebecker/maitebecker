@@ -1,8 +1,11 @@
-# 👋 Hey, I'm Maitê Becker!
+<h1 align="left">Olá! Me chamo Maitê Becker 👩‍💻</h1>
 
-🎓 **Computer Science student**  
-📍 **Brazil**  
-✉️ **Contact me:** beckermaite21@gmail.com  
+🎓 Estudante de Ciência da Computação  
+📍 Local: Brasil  
+💡 Interesses: Desenvolvimento Web e Back-end
+
+
+---
 
 <p align="center">
   <img src="https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif" alt="Tux coding gif" width="150"/>
@@ -10,7 +13,7 @@
 
 ---
 
-## 🚀 I'm currently learning
+## 🚀 Atualmente estou aprendendo
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,9 +28,9 @@
 
 ---
 
-## 📱 Connect with me
+## 📫 Onde me encontrar
 
-<p>
+<p align="left">
   <a href="mailto:beckermaite21@gmail.com" target="_blank" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -41,15 +44,13 @@
 
 ---
 
-## 📊 GitHub 
 
-<div>
-  <a href="https://github.com/maitebecker">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitebecker&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitebecker&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ---
+
 
 <p align="center">
   <img src="https://github.com/maitebecker/maitebecker/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
