@@ -42,17 +42,6 @@
   </a>
 </p>
 
----
-
-
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitebecker&layout=compact&langs_count=7&theme=default"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitebecker&theme=default" />
-</p>
-
-
-
-
 
 ---
 
